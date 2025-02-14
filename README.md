@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daveblx" alt="daveblx" /></a> </p>
-
 - I’m currently working on **some smaller Java projects**
 
 <p align="left">
