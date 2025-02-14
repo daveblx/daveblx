@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-- I’m currently working on some smaller Java projects
+I’m currently working on some smaller Java projects
 
 <p align="left">
 </p>
